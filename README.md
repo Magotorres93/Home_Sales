@@ -41,9 +41,7 @@ Uncache the "home_sales" temporary table.
 
 Verify that the "home_sales" temporary table is no longer cached using PySpark.
 
-Submission
-Download your "Home_Sales.ipynb" file and upload it to your GitHub repository named "Home_Sales".
-Good luck with your home sales analysis project! If you have any questions or need further assistance, feel free to reach out.
+
 
 
 
